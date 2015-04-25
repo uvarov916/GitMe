@@ -1,0 +1,15 @@
+{
+  "name": "git-me",
+  "version": "0.0.1",
+  "description": "The app that shows your GitHub stats",
+  "author": "Ivan Uvarov <tonk2012@gmail.com>",
+  "private": "true",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "hapi": "*",
+    "handlebars": "*"
+  },
+  "license": "MIT"
+}

@@ -43,5 +43,11 @@ server.route({
   }
 });
 
+// server.route({
+//   method: 'GET',
+//   path: '/get-user-data/{username}',
+
+// });
+
 // Start the server
 server.start();
